@@ -8,6 +8,9 @@ ___
 
 ## 📸 Dashboard Preview
 
+## 📸 Dashboard Preview
+
+![Ola Dashboard Preview](https://github.com/ajeet1234-gif/ola-ride-analytics-excel-dashboard/blob/main/ola%20dashboard.jpeg?raw=true)
 
 
 📌 Project Overview
