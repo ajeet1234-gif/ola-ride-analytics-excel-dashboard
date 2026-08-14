@@ -1,4 +1,4 @@
-🚗 Ola Ride Analytics --- Excel Dashboard
+## 🚗 Ola Ride Analytics --- Excel Dashboard
 
 An end-to-end Ola Ride Analytics project built in Microsoft Excel to
 analyze ride bookings, revenue, cancellations, customer behavior,
@@ -8,12 +8,10 @@ ___
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
 ![Ola Dashboard Preview](https://github.com/ajeet1234-gif/ola-ride-analytics-excel-dashboard/blob/main/ola%20dashboard.jpeg?raw=true)
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project transforms raw ride-hailing data into meaningful business
 insights using Excel-based data analysis and visualization.
@@ -37,7 +35,7 @@ What is the customer and driver rating performance?
 Which operational areas need improvement?
 ___
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze overall ride-booking performance.
 
@@ -55,7 +53,7 @@ Convert raw operational data into actionable business insights.
 
 ___
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Microsoft Excel
 
@@ -77,7 +75,7 @@ Data Visualization
 
 ___
 
-📊 Dashboard Components
+## 📊 Dashboard Components
 
 The dashboard contains key performance indicators and visualizations
 covering:
@@ -98,13 +96,11 @@ Cancellation Analysis
 
 Ride/Revenue Trends
 
-Customer & Driver Ratings
-
 Operational Performance
 
 ___
 
-📁 Workbook Structure
+## 📁 Workbook Structure
 
 Sheet                 Purpose
 
@@ -121,7 +117,7 @@ the required structured data and calculation layers.
 
 ___
 
-🔍 Key Analytical Areas
+## 🔍 Key Analytical Areas
 
 Ride Performance
 
@@ -152,7 +148,7 @@ Time-based analysis of ride bookings and business performance.
 
 ___
 
-💡 Business Insights
+## 💡 Business Insights
 
 The dashboard can help stakeholders:
 
@@ -170,7 +166,7 @@ Make data-driven decisions to improve ride completion and customer
 experience.
 
 ___
-🚀 How to Use
+## 🚀 How to Use
 
 Download the Excel workbook.
 
@@ -184,7 +180,7 @@ Use the underlying calculation sheets to understand how the metrics
 are derived.
 
 ___
-📌 Project Highlights
+## 📌 Project Highlights
 
 End-to-end Excel analytics workflow
 
@@ -199,7 +195,7 @@ Operational and revenue analysis
 Clean portfolio-ready presentation
 
 ___
-👤 Author
+## 👤 Author
 
 Ajeet Kumar
 
