@@ -143,6 +143,8 @@ Trend Analysis
 
 Time-based analysis of ride bookings and business performance.
 
+___
+
 💡 Business Insights
 
 The dashboard can help stakeholders:
