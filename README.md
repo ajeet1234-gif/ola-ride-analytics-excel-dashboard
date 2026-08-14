@@ -28,6 +28,7 @@ How do bookings and revenue change over time?
 What is the customer and driver rating performance?
 
 Which operational areas need improvement?
+___
 
 🎯 Objectives
 
@@ -44,6 +45,8 @@ Analyze customer and driver ratings.
 Build an interactive and management-friendly Excel dashboard.
 
 Convert raw operational data into actionable business insights.
+
+___
 
 🛠️ Tools & Technologies
 
@@ -64,6 +67,8 @@ Data Cleaning & Transformation
 Dashboard Design
 
 Data Visualization
+
+___
 
 📊 Dashboard Components
 
@@ -90,6 +95,8 @@ Customer & Driver Ratings
 
 Operational Performance
 
+___
+
 📁 Workbook Structure
 
 Sheet                 Purpose
@@ -104,6 +111,8 @@ Dashboard           Final interactive dashboard
 The separate cleaned-data sheet was intentionally removed from the
 final portfolio version because it was redundant; the analysis uses
 the required structured data and calculation layers.
+
+___
 
 🔍 Key Analytical Areas
 
@@ -151,12 +160,7 @@ Identify operational trends.
 Make data-driven decisions to improve ride completion and customer
 experience.
 
-📸 Dashboard Preview
-
-Add your final dashboard screenshot here:
-
-![Ola Ride Analytics Dashboard](dashboard.png)
-
+___
 🚀 How to Use
 
 Download the Excel workbook.
@@ -170,6 +174,7 @@ Explore the KPIs and charts.
 Use the underlying calculation sheets to understand how the metrics
 are derived.
 
+___
 📌 Project Highlights
 
 End-to-end Excel analytics workflow
@@ -184,6 +189,7 @@ Operational and revenue analysis
 
 Clean portfolio-ready presentation
 
+___
 👤 Author
 
 Ajeet Kumar
